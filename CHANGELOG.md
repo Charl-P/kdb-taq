@@ -87,3 +87,7 @@ Enabled to handle >2billion rows in input file. Use in combination with `-par` c
 ### 2010.08.19
 Amend the file detection code to pick up the new file names (as well as the old ones)
 when NYSE changes the filenames for the FTP download on September 17th, 2010.
+
+### 2025.12.11
+Added latest date
+
